@@ -1,0 +1,12 @@
+p {
+	font-family: Courier;
+	font-weight: bold;
+	color: white;
+}
+.jumbotron {
+    background-image: url('../images/Forest.jpg');
+}
+h1.display-3 {
+	font-family: fantasy;
+	color: white;
+}
