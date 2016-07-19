@@ -1,0 +1,50 @@
+body {
+	background-color: MistyRose;
+	text-align: center;
+}
+
+.title {
+	color: white;
+}
+.section-header {
+	background-color: White;
+	border: dotted MintCream;
+	color: Thistle;
+	text-align: center;
+	font-size: 45px;
+	font-style: bold;
+	font-family: fantasy;
+}
+
+.paragraph_headers {
+	background-color: Thistle;
+	text-align: center;
+	width: 30px;
+	padding: 10px;
+	border: 17px ridge Thistle;
+	color: white;
+	font-weight: bold;
+	font-size: 28px;
+	font-style: bold;
+	font-family: monospace;
+}
+
+.paragraphs {
+	width: 400px;
+	padding: 40 px;
+	border: 50px solid white;
+	font-style: italic;
+}
+
+.pictures {
+	border: 20px solid white;
+	padding: 10px;
+}
+
+.list {
+	background-color:white;
+	width: 200px;
+	font-size: 25px;
+	font-style: normal;
+	border: 8px inset white;
+}
