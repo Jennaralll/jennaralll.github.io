@@ -1,4 +1,7 @@
-p {
+body {
+	background-color: #4682B4
+}
+.lead {
 	font-family: Courier;
 	font-weight: bold;
 	color: white;
@@ -6,7 +9,21 @@ p {
 .jumbotron {
     background-image: url('../images/Forest.jpg');
 }
+
 h1.display-3 {
 	font-family: fantasy;
 	color: white;
+}
+
+.news_1 {
+	color:black;
+	width: 300px;
+	font-size: 18px;
+	padding: 20px;
+	border: 15px solid #B0C4DE;
+	background-color: white;
+}
+.top {
+	width: 350px;
+
 }
