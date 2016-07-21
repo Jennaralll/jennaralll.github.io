@@ -17,7 +17,7 @@ body {
 }
 
 .paragraph_headers {
-	background-color: Thistle;
+	/*background-color: Thistle;
 	text-align: center;
 	width: 30px;
 	padding: 10px;
@@ -26,19 +26,31 @@ body {
 	font-weight: bold;
 	font-size: 28px;
 	font-style: bold;
-	font-family: monospace;
+	font-family: monospace;*/
+	background-color: Thistle;
+	color:white;
+	border: 17px ridge Thistle;
+	padding: 10px;
+	font-size: 28px;
+	width: 100px;
+	text-align:center;
+
+
 }
+
 
 .paragraphs {
 	width: 400px;
 	padding: 40 px;
 	border: 50px solid white;
 	font-style: italic;
+	text-align:center;
 }
 
 .pictures {
 	border: 20px solid white;
 	padding: 10px;
+	text-align: center;
 }
 
 .list {
@@ -47,5 +59,6 @@ body {
 	font-size: 25px;
 	font-style: normal;
 	border: 8px inset white;
+	text-align: center;
 }
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
